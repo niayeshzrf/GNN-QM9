@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="notebooks/Cover.png" width="600"/>
+  <img src="notebooks/Cover.png" width="1000"/>
 </p>
 
 # 🧪 Graph Neural Network for Molecular Property Prediction (QM9)
@@ -33,8 +33,6 @@ Molecular graphs are built from raw `.sdf` files using **RDKit** and trained usi
 | Node features | Atomic number, aromaticity, valence, etc. |
 | Edge features | Bond type, conjugation, ring status |
 | Adjacency | Fully bidirectional |
-
-![Matrix Diagram](notebooks/matrix_example.png) <!-- You can use your schematic here -->
 
 ---
 
