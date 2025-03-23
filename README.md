@@ -67,6 +67,7 @@ Target values are **z-score normalized** for training.
 
 ## 🧾 File Structure
 
+'''
 GNN-QM9/
 ├── data/                # QM9 raw + processed data
 ├── src/                 # All code (loader, dataset, model, training)
@@ -74,6 +75,7 @@ GNN-QM9/
 ├── results/             # Predictions, losses
 ├── requirements.txt
 └── README.md
+'''
 
 ---
 
