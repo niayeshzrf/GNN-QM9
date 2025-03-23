@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Banner Image -->
 <p align="center">
   <img src="notebooks/Cover.png" width="600"/>
@@ -91,3 +92,6 @@ python src/build_dataset.py
 
 # Train model
 python src/train_GNN.py
+=======
+# GNN-QM9
+>>>>>>> 07a631be07503ca51155bf58a8bfaa9f583bf06f
