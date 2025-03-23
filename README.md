@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="notebooks/Cover.png" width="3000"/>
+  <img src="notebooks/Cover.png" width="5000"/>
 </p>
 
 # 🧪 Graph Neural Network for Molecular Property Prediction (QM9)
