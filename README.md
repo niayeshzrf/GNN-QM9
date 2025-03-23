@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Banner Image -->
 <p align="center">
   <img src="notebooks/Cover.png" width="600"/>
