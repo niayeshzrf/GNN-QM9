@@ -51,11 +51,7 @@ Target values are **z-score normalized** for training.
 
 ## 📈 Results
 
-### ✅ True vs Predicted HOMO
 
-<p align="center">
-  <img src="notebooks/pred_vs_true.png" width="350"/>
-</p>
 
 ### ✅ Loss Curves
 
